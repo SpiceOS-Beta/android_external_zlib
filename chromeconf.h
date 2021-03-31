@@ -191,5 +191,6 @@
 #define arm_cpu_enable_pmull Cr_z_arm_cpu_enable_pmull
 #define arm_check_features Cr_z_arm_check_features
 #define armv8_crc32_little Cr_z_armv8_crc32_little
+#define armv8_crc32_pmull_little Cr_z_armv8_crc32_pmull_little
 
 #endif /* THIRD_PARTY_ZLIB_CHROMECONF_H_ */
